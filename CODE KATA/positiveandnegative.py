@@ -6,4 +6,4 @@ elif a == 0:
 elif a < 0:
     print("negative")
 else:
-    print("")
+    print("enter the range between 0 to 100001")
